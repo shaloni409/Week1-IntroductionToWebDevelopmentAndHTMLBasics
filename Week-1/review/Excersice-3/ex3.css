@@ -1,0 +1,19 @@
+img{
+    width: 200px;
+    height: 200px;
+    position: initial;
+
+}
+body{
+    background-color: rgb(26, 188, 171);
+}
+.second-div{
+    background-color: rgb(43, 201, 201);
+    width: 800px;
+    margin: 200px;  
+    border-radius: 30px; 
+    border-top-right-radius:15px;
+border-top-left-radius:15px;
+border-bottom-right-radius:15px;
+border-bottom-left-radius:15px;
+}
